@@ -1,0 +1,17 @@
+.container {
+    max-width: 1320px;
+    margin: 70px auto;
+}
+
+.main-box {
+    width: 600px;
+}
+
+table {
+    width: 600px;
+    border: 2px solid gray;
+}
+
+th, td {
+    border: 2px solid black;
+}
